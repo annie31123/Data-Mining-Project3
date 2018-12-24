@@ -1,0 +1,12 @@
+veil-type=p ==> gill-attachment=f
+gill-attachment=f ==> veil-type=p
+veil-color=w ==> gill-attachment=f
+gill-attachment=f ==> veil-color=w
+veil-color=w ==> veil-type=p
+veil-type=p ==> veil-color=w
+veil-type=p veil-color=w ==> gill-attachment=f
+gill-attachment=f veil-color=w ==> veil-type=p
+gill-attachment=f veil-type=p ==> veil-color=w
+veil-color=w ==> gill-attachment=f veil-type=p
+veil-type=p ==> gill-attachment=f veil-color=w
+gill-attachment=f ==> veil-type=p veil-color=w
